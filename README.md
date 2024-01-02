@@ -1,4 +1,4 @@
-This is a group assignment from COSC2436. Using stacks and queues, we determined if the parenthesis were valid or invalid.
+This is a group assignment from COSC2436. Using stacks and queues, we determined if the parentheses were valid or invalid.
 Every open bracket has a corresponding closed bracket, and vice versa.
 Curly brackets are enclosed in other curly brackets.
 Square brackets are enclosed in curly or square brackets.
